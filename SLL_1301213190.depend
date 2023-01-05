@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665939458 source:e:\telyu\smt\3\std\tp4\sll_1301213190\sll.cpp
+	"SLL.h"
+
+1665938602 e:\telyu\smt\3\std\tp4\sll_1301213190\sll.h
+	<iostream>
+
+1665940196 source:e:\telyu\smt\3\std\tp4\sll_1301213190\main.cpp
+	"SLL.h"
+
